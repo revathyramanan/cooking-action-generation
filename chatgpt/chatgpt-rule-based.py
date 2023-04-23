@@ -12,6 +12,7 @@ import openai
 import time
 load_dotenv()
 
+# Replace it with your own API Key
 openai.api_key = os.getenv("API_KEY")
 
 train_split = 0.80
