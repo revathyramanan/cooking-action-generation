@@ -18,6 +18,6 @@ The proposed CookGen model can be found under the folder CookGen. It contains bo
 
 ### ChatGPT
 We used ChatGPT model `gpt-3.5-turbo` to generate cooking actions given cooking instructions. The model is accessed through the API exposed by OpenAI. The promt used is shown in the figure below
-![ChatGPT prompt](Diagrams/chatgpt_prompt.pdf)
+![ChatGPT prompt](Diagrams/chatgpt_prompt.png)
 
 ### Additional Resources
